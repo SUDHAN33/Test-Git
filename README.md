@@ -1,2 +1,2 @@
 # Test-Git
-This is testing git
+This is tutorial git
